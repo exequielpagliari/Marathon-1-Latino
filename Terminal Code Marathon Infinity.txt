@@ -1,0 +1,84 @@
+Terminal Editing
+
+When terminals are placed, you use the script pop-up menu to indicate the terminal’s ID number. 
+This should always start with zero, not one and corresponds to a specific piece of text contained 
+within a text file. When merged, this text file is placed within the map file and the terminal 
+becomes usable. See Tutorial 8 for more on merging maps.
+
+The text file can be generated using any text editor such as SimpleText will do nicely. The PICT 
+resources are contained in a Terminal PICTs document that you create using ResEdit, available at 
+Apple's web site, www.apple.com. Here is a list of the terminal text commands you can use:
+
+The ";" is used to mark comments.
+#TERMINAL n starts terminal n, where n is the terminal’s ID number. This should always start 
+with zero as should the scripts for the terminals in the level.
+
+#LOGON n will display a PICT with resource n. This PICT will fill most of the screen with a small 
+amount of room at the bottom for text.
+
+#UNFINISHED indicates the commands to display if level goal has not been completed.
+
+#FINISHED indicates the commands that will be displayed when the level goal has been completed.
+
+#INFORMATION will display a page without any graphics, only the text and commands you indicate.
+
+#PICT n will display a screen with a PICT with resource n. The PICT will be displayed on one half 
+of the screen and the text you indicate will be displayed on the other half.
+
+#CHECKPOINT n will display on one half of the screen a picture of the overhead map with object 
+goal n (as opposed to the polygon goal) circled. Text will be displayed on the other half of the 
+terminal screen.
+
+#INTERLEVEL TELEPORT n teleports the marine to level n. Setting n to 256 will end the game and 
+return the player Marathon's main menu screen.
+
+#INTRALEVEL TELEPORT n teleports marine to polygon n.
+
+#LOGOFF n works just like logon but displayed when logging off the terminal.
+
+#END ends finished or unfinished section of text.
+
+#ENDTERMINAL n ends terminal n.
+
+The text commands are:
+
+$Cn changes colors of text to color n, where n can be any number between 0 and 7. The following 
+colors correspond to the numbers:
+
+0 – light green
+1 – white
+2 – red
+3 – dark green
+4 – light blue
+5 – yellow
+6 – dark red
+7 – dark blue
+
+$B starts bold text. $b ends bold text.
+$I begins italicized text. $i ends italics.
+$U starts underlined text. $u ends underline.
+
+So a typical terminal text would be as follows:
+
+#TERMINAL 0
+;sample terminal
+#UNFINISHED
+#LOGON 1600
+#PICT 10000
+$C6You must kill $B$Ieverything$i$b you find and not return until your
+deed is done$c6
+#LOGOFF 1601
+#END
+#FINISHED
+#LOGON 1600
+#PICT 10001
+Good work. Onward we go.
+#LOGOFF 1601
+#INTERLEVEL TELEPORT 01
+#END
+#ENDTERMINAL 0
+
+Probably the best way to learn terminal text editing is to get the Marathon Map Splitter and check 
+out the terminals that were made by Bungie by splitting the Infinity Map file. You will need 
+ResEdit to view the PICT resources and any text editor, such as SimpleText to view the actual 
+terminal commands.
