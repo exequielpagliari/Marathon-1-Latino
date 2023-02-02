@@ -1,1 +1,22 @@
-;L020.AMS.ENTRY#logonPublic Access Terminal 4-a<892.33.12.479>#information***INCOMING MESSAGE FROM LEELA***The Marathon's Automatic Manufacturing Systems have finished making replacement circuits.  There are three circuits; each should be in its manufacturing holding chamber. With luck, the alien viruses have not infiltrated the Manufacturing Systems, but even if they had, I would have no way of knowing.  The attacks on my systems are growing more steady.  If the counterattack is not able to remove some of the computer infiltrators, then I will eventually succumb.  It is absolutely imperative that a counterattack begin as soon as possible.  The Marathon is not defenseless, and we can't let it be taken without a fight.***END MESSAGE***#checkpoint 0This is where the circuits should be.  Look in all of the receptacle lockers.#checkpoint 2There is a pattern buffer located next to your current location.  I suggest that you use it immediately.#checkpoint 6After you have retrieved the circuits, return to the terminal at this location, and I will transport you to the Defense Center to install them.
+;L020.AMS.ENTRY
+#logon
+Terminal de Acceso Público 4-a<892.33.12.479>
+#information
+***MENSAJE ENTRANTE DE LEELA***
+
+Los Sistemas de Fabricación Automática de Marathon han terminado de hacer circuitos de reemplazo. Hay tres circuitos; cada uno debe estar en su cámara de fabricación.
+
+Con suerte, los virus alienígenas no se han infiltrado en los Sistemas de Fabricación, pero incluso si lo hubieran hecho, no tendría forma de saberlo. Los ataques a mis sistemas son cada vez más constantes. Si el contraataque no puede eliminar algunos de los infiltrados de la computadora, finalmente sucumbiré.
+
+Es absolutamente imprescindible que comience un contraataque lo antes posible. Marathon no está indefenso, y no podemos permitir que se tome sin luchar.
+
+***FIN DEL MENSAJE***
+
+#checkpoint 0
+Aquí es donde deberían estar los circuitos. Mira en todos los armarios de receptáculos.
+
+#checkpoint 2
+Hay un Buffer de Patrones ubicado al lado de tu ubicación actual. Te sugiero que lo uses de inmediato
+
+#checkpoint 6
+Una vez que hayas recuperado los circuitos, regresa a la terminal en este lugar y lo transportaré al Centro de Defensa para instalarlos.
