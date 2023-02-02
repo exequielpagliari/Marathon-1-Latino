@@ -1,1 +1,22 @@
-;L019.BIGGUNS.EXIT#logonPublic Access Terminal <101.532.74.95>#briefing 2***INCOMING MESSAGE FROM LEELA***The Marathon's automated defenses were disabled during the initial attack by a directed magnetic pulse.  The aliens used the same weapon to disable the Marathon's other two AIs, Durandal and Tycho, and to severely damage myself.Durandal is responsible for controlling the ship's autonomous functions: doors, life support, kitchens, air reprocessors, stairs, and so on.  Because he is non-functional, I am working to assume as many of these tasks as possible.  Tycho controls the science and engineering network.Now that you are better armed, our first priority is to reactivate the Marathon's defenses, under my control, so that we may offer some resistance to the aliens.  I have built three replacement circuit boards for the defense system, but cannot move them from the manufacturing center without assistance.I will now transport you to retrieve the replacement parts, and will give you further instructions when you arrive.***END OF MESSAGE***$B***JUMP PAD ACTIVATION INITIATION START***$B***TRANSPORT WHEN READY***
+;L019.BIGGUNS.EXIT
+#logon
+Terminal de Acceso Público <101.532.74.95>
+#briefing 2
+***MENSAJE ENTRANTE DE LEELA***
+
+Las defensas automáticas de Marathon fueron desactivadas durante el ataque inicial por un pulso magnético dirigido. Los alienígenas usaron la misma arma para desactivar las otras dos IA del Marathon, Durandal y Tycho, y para dañarme gravemente.
+
+
+Durandal es responsable de controlar las funciones autónomas de la nave: puertas, soporte vital, cocinas, reprocesadores de aire, escaleras, etc. Debido a que no es funcional, estoy trabajando para asumir tantas de estas tareas como sea posible. Tycho controla la red de ciencia e ingeniería.
+
+
+Ahora que estás mejor armado, nuestra primera prioridad es reactivar las defensas de Marathon, bajo mi control, para que podamos ofrecer cierta resistencia a los alienígenas. He construido tres placas de circuito de reemplazo para el sistema de defensa, pero no puedo moverlas desde el centro de fabricación sin ayuda.
+
+
+Ahora te transportaré para recuperar las piezas de repuesto y te daré más instrucciones cuando llegues.
+
+
+***FIN DEL MENSAJE***
+
+$B***INICIANDO PROCESO DE TELETRANSPORTACIÓN***
+***TRANSPORTE CUANDO ESTÉS LISTO***
