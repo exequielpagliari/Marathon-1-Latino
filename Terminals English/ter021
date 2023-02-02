@@ -1,1 +1,43 @@
-;L021.AMS.REROUTING.TERM1#logonAMS Terminal 33-f<31.6.7.885>#information$BAutomatic Manufacturing System$b*Transfer 5992-p delayed*Transfer 5993-p delayed*Transfer 5994-p delayed*Transfer 5995-p delayed*Transfer 5996-p delayed*Transfer 5997-p delayed*Transfer canceled-AMS Transport System Error***CAUSE UNKNOWN****TRANSPORT MATERIALS ON INTER-TRANSFER COUNTER****MESSAGE FROM LEELA***I was afraid this would happen.  You'll have to go to the Manufacturing Transport Station to get the last circuit board.Collect the two circuit boards that were transferred and then go to the Transport Station.#checkpoint 3 Take the elevator here to access the main processor tunnel.#checkpoint 4You should find the third chip intact on the Transport Station.  The error was a failure of the final transporter conductor. ***END MESSAGE***#checkpoint 5$B<Alert>$bSecurity Breach at <40.638.49.993>
+;L021.AMS.REROUTING.TERM1
+#logon
+Terminal AMS 33-f<31.6.7.885>
+#information
+$BSistemas de Fabricación Automática$b
+
+*Transferencia 5992-p retrasada
+
+*Transferencia 5993-p retrasada
+
+*Transferencia 5994-p retrasada
+
+*Transferencia 5995-p retrasada
+
+*Transferencia 5996-p retrasada
+
+*Transferencia 5997-p retrasada
+
+*Transferencia cancelada
+-Error de Systema de Transporte AMS
+***CAUSA DESCONOCIDA**
+
+*TRANSPORTE DE MATERIALES ENCENDIDO 
+CONTADOR DE INTER-TRANSFERENCIA
+
+
+***MENSAJE ENTRANTE DE LEELA***
+
+Tenia miedo de que esto pasara. Tendrás que ir a la Estación de Transporte de Fabricación para obtener la última placa de circuito.
+
+Recoge las dos placas de circuito que fueron transferidas y luego ve a la estación de transporte.
+
+#checkpoint 3 
+Toma el elevador aquí para acceder al túnel del procesador principal.
+
+#checkpoint 4
+Debería encontrar el tercer chip intacto en la estación de transporte. El error fue un fallo del conductor del transportador final.
+
+***FIN DEL MENSAJE***
+
+#checkpoint 5
+$B<Alerta>$b
+Violación de Segurida en <40.638.49.993>
