@@ -1,12 +1,12 @@
 # Marathon Latino
 
 
-![This is an image](https://github.com/exequielpagliari/Marathom-2-Latino/blob/master/Arhicvo%20de%20Mapa%20Separado/Resources/PICT/01600.bmp)
+![This is an image](https://github.com/exequielpagliari/Marathom-2-Latino/blob/master/MapaSeparado/Resources/PICT/01600.bmp)
 
 
 ### =Sobre Marathon Latino=
 
-Versión 0
+Versión 0.3v
 
 Este AddOn de Marathon es una versión del proyecto de traducción a Español que estamos llevando a cabo. Se modificaron los textos de terminales por fanáticos de la saga que se congregaron con el fin de lograr generar un puente entre el juego y la comunidad iberoamericana.
 
@@ -17,9 +17,9 @@ Este AddOn de Marathon es una versión del proyecto de traducción a Español qu
 |---------------|
 |Descargar archivo Zip de este AddOn más abajo|
 |Descargar Marathon de aquí: https://alephone.lhowon.org/games/marathon.html|
-|Descomprimir ambos archivos Zip y copiar el archivo “M1 Map Latino.sceA“ a la carpeta de Marathon M1.|
+|Descomprimir ambos archivos Zip y copiar el archivo “Marathon.appl“ a la carpeta de Marathon M1.|
 |Reemplazar si se quiere no conservar el archivo anterior de mapas en inglés.|
-|Seleccionar desde el menú de Preferences el item Enviroment y luego “M1 Map Latino.sceA”.|
+|Seleccionar desde el menú de Preferences el item Enviroment y luego “Marathon.appl”.|
 |Seleccionar el Mapa que copiamos.|
 |Presionar New Game y disfrutar :)|
 
