@@ -1,0 +1,40 @@
+;L011.BIGGUNS.DOORMANUAL.TERM1
+#logon
+Terminal de Acceso Público 2362-d<12.53.2111.42>
+#information
+<$BAcceso no autorizado$b-alarma 2521->
+<Violación de Seguridad 2362-d<12.53.2117.42>->
+
+Documentos de Ingeniería Interna de Marathon.
+Sección 1-c apéndice H
+
+Sujeto: Puertas
+Por:  Estasia Orestes, Dominick I. Plackar, y Ursa Simbalzi
+Fecha: <2402.03.23.16.42>
+
+Hay cinco diseños de puertas usadas en Marathon:
+1. Puertas Exteriores de Mamparo
+2. Puertas Exclusas
+3. Puertas Mamparos Interiores
+4. Puertas terciarias o selladas internamente al vacío
+5. Puertas automáticas de apertura automática cuaternarias o internas
+
+El control directo de todas las puertas, excepto las terciarias y cuaternarias, se otorgará a Durandal con el control indirecto de todas las demás puertas que van a Durandal. La diferencia entre el control directo e indirecto tiene que ver principalmente con la forma de abrir las puertas. Durandal solo abrirá una puerta controlada directamente cuando se le solicite específicamente que lo haga. Las puertas controladas indirectamente son controladas automáticamente por Durandal para abrirse cuando sea necesario.
+
+Sin embargo, debido al gasto que conlleva agregar sensores de espectro térmico y visual a los grupos de puertas Terciario y Cuaternario, estas puertas se utilizarán mínimamente. Se estima que el ahorro esperado de no usar esta información sensorial adicional es del cincuenta y siete por ciento del costo base de la puerta interna de mamparo básica.
+
+
+Los tipos de puertas son básicamente iguales con algunas ligeras variaciones. Las puertas en las clases 1 y 3 son las mismas puertas clasificadas por separado para distinguir entre el nivel de verificación de seguridad requerido para asegurar fugas aceptables. Las puertas de la esclusa de aire están específicamente modificadas para funcionar con interruptores de activación manual y remota. Las esclusas de aire deben estar marcadas con un símbolo de esclusa de aire específico y estar equipadas con un sistema de recarga de aire.
+
+
+Las puertas terciarias y cuaternarias están diseñadas exactamente como las puertas de mamparo, pero se verifican de manera ordinaria para detectar fugas de aire.
+
+
+Este artículo, así como los artículos 530-f y 532-g sobre ventanas y ascensores, respectivamente, se colocarán para el acceso público en la sección 1-c del apéndice H en los Documentos de Ingeniería Interna de Marathon.
+
+<$BInterrupción Spurio- Irrupción Desecativada$b>
+<$BAccseo Futuro Denegado$b>
+
+#checkpoint 3
+$B<Alerta>$b 
+$BViolación de Seguridad en Terminal 2362-d$b<12.53.2111.42>

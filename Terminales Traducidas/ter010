@@ -1,0 +1,25 @@
+;L010.BIGGUNS.ENTRY
+#logon
+Nivel 29-b Sección 10 Terminal de Acceso Público<102.21.521.146>
+#information
+***INCOMING MESSAGE FROM LEELA***
+
+Ahora estoy en contacto con varios colonos del planeta, pero sus informes sobre la situación allá son contradictorios y obviamente exagerados. La antena de radio primaria de medio alcance ha sido desactivada o destruida, lo que hace que la comunicación sea extremadamente difícil.
+
+Lo único que parece claro es que el puerto espacial fue destruido por armas nucleares de bajo rendimiento minutos después de que comenzara el ataque al Marathon. Esto lo puedo verificar a mediante mis propios instrumentos ópticos.
+
+Los invasores parecen estar más interesados ??en Marathon que en la colonia, al menos a corto plazo. Sin embargo, todavía se desconocen los motivos detrás de su ataque no provocado.
+
+#checkpoint 0
+
+Esta es la Terminal que está utilizando ahora. No puedo teletransportarte fuera de esta sección desde aquí, así que tendrás que salir por otra terminal después de encontrar el rifle de asalto.
+
+#checkpoint 1
+
+Hay un Fusil de Asalto M-75/Lanzagranadas y municiones en esta ubicación. Al disparar en la configuración totalmente automática, esta arma es muy inexacta, pero las granadas golpean con fuerza y ??es lo mejor que podemos hacer en este momento. Las municiones pueden ser escasas por un tiempo, así que prepárate para volver a tu pistola.
+
+#checkpoint 2
+
+Aquí está la terminal a la que debe llegar para salir de esta sección. La infiltración alienígena en esta área es alta; procede con precaución. Puedes encontrar puertas bloqueadas o escaleras retraídas en el camino, porque la IA que controla estas funciones está dañada y se comporta de manera errática.
+
+***END OF MESSAGE***

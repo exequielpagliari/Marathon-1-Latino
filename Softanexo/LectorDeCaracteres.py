@@ -3,7 +3,7 @@ import codecs
 
 term = 'ter' + str(input("Ingrese nombre del Terminal a traducir:       ter"))
 
-with codecs.open(r'Terminales Traducidas\{}'.format(term), 'r', encoding='latin-1') as fin:
+with codecs.open(r'Terminales Traducidas\{}'.format(term), 'r', encoding='ansi') as fin:
     file_content = fin.read()
 
 
