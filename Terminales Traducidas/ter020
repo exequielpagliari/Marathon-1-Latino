@@ -1,0 +1,22 @@
+;L020.AMS.ENTRY
+#logon
+Terminal de Acceso Público 4-a<892.33.12.479>
+#information
+***MENSAJE ENTRANTE DE LEELA***
+
+Los Sistemas de Fabricación Automática de Marathon han terminado de hacer circuitos de reemplazo. Hay tres circuitos; cada uno debe estar en su cámara de fabricación.
+
+Con suerte, los virus alienígenas no se han infiltrado en los Sistemas de Fabricación, pero incluso si lo hubieran hecho, no tendría forma de saberlo. Los ataques a mis sistemas son cada vez más constantes. Si el contraataque no puede eliminar algunos de los infiltrados de la computadora, finalmente sucumbiré.
+
+Es absolutamente imprescindible que comience un contraataque lo antes posible. Marathon no está indefenso, y no podemos permitir que se tome sin luchar.
+
+***FIN DEL MENSAJE***
+
+#checkpoint 0
+Aquí es donde deberían estar los circuitos. Mira en todos los armarios de receptáculos.
+
+#checkpoint 2
+Hay un Buffer de Patrones ubicado al lado de tu ubicación actual. Te sugiero que lo uses de inmediato
+
+#checkpoint 6
+Una vez que hayas recuperado los circuitos, regresa a la terminal en este lugar y lo transportaré al Centro de Defensa para instalarlos.

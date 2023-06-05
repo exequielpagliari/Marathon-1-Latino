@@ -1,0 +1,43 @@
+;L021.AMS.REROUTING.TERM1
+#logon
+Terminal AMS 33-f<31.6.7.885>
+#information
+$BSistemas de Fabricación Automática$b
+
+*Transferencia 5992-p retrasada
+
+*Transferencia 5993-p retrasada
+
+*Transferencia 5994-p retrasada
+
+*Transferencia 5995-p retrasada
+
+*Transferencia 5996-p retrasada
+
+*Transferencia 5997-p retrasada
+
+*Transferencia cancelada
+-Error de Systema de Transporte AMS
+***CAUSA DESCONOCIDA**
+
+*TRANSPORTE DE MATERIALES ENCENDIDO 
+CONTADOR DE INTER-TRANSFERENCIA
+
+
+***MENSAJE ENTRANTE DE LEELA***
+
+Tenia miedo de que esto pasara. Tendrás que ir a la Estación de Transporte de Fabricación para obtener la última placa de circuito.
+
+Recoge las dos placas de circuito que fueron transferidas y luego ve a la estación de transporte.
+
+#checkpoint 3 
+Toma el elevador aquí para acceder al túnel del procesador principal.
+
+#checkpoint 4
+Debería encontrar el tercer chip intacto en la estación de transporte. El error fue un fallo del conductor del transportador final.
+
+***FIN DEL MENSAJE***
+
+#checkpoint 5
+$B<Alerta>$b
+Violación de Segurida en <40.638.49.993>
