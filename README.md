@@ -15,7 +15,7 @@ Este AddOn de Marathon es una versión del proyecto de traducción a Español qu
 
 | Guía de Instalación|
 |---------------|
-|Descargar archivo Zip de este AddOn más abajo|
+|Descargar archivo Zip de este AddOn que está en Release|
 |Descargar Marathon de aquí: https://alephone.lhowon.org/games/marathon.html|
 |Descomprimir ambos archivos Zip y copiar el archivo “Marathon.appl“ a la carpeta de Marathon M1.|
 |Reemplazar si se quiere no conservar el archivo anterior de mapas en inglés.|
